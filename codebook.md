@@ -1,6 +1,6 @@
 # Introduction to the Code Book
 
-The script `run_analysis.R` performs the five steps outlined in instructions for the course project, found in `readme.MD`.
+The script `run_analysis.R` performs the five steps outlined in instructions for the course project, found in `readme.md`.
 
 * First, we use the `rbind()` function to merge all the similar data. 
 * Only those columns with mean and standard deviation measures are taken from the whole dataset. These columns are then assigned the correct names, taken from `features.txt`.
